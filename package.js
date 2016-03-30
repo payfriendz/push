@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'raix:push',
+  name: 'payfriendz-push',
   version: '3.0.2',
   summary: 'Isomorphic Push notifications for APN and GCM',
   git: 'https://github.com/raix/push.git'
@@ -12,7 +12,7 @@ Npm.depends({
 });
 
 Cordova.depends({
-  'phonegap-plugin-push': '1.5.3'
+  'phonegap-plugin-push': '1.6.1'
 });
 
 Package.registerBuildPlugin({
