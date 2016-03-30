@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'payfriendz-push',
+  name: 'mpf-push',
   version: '3.0.2',
   summary: 'Isomorphic Push notifications for APN and GCM',
-  git: 'https://github.com/raix/push.git'
+  git: 'https://github.com/payfriendz/mpf-push.git'
 });
 
 // Server-side push deps
